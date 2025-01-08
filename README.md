@@ -6,7 +6,7 @@ Download Sketchfab Models and textures
 ## Installing the extension:
 
 > [!WARNING]
-> If you are using Tampermonkey 5.2.0+, don't forget [turn on](https://github.com/ilyhalight/voice-over-translation/issues/662#issuecomment-2160768958) developer mode or use Tampermonkey MV2
+> If you are using Tampermonkey 5.2.0+, don't forget [turn on](https://www.tampermonkey.net/faq.php#Q209) developer mode or use Tampermonkey MV2
 
 
 
