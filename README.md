@@ -17,4 +17,4 @@ Download Sketchfab Models and textures
 
 1. Install the extension **[Tampermonkey](https://www.tampermonkey.net/)** (Alternative for Safari: **[UserScripts](https://apps.apple.com/app/userscripts/id1463298887)**)
 2. **[«Install the Script SketchfabModelDownload»](https://github.com/artemka-sh/SketchfabDownloader/raw/refs/heads/main/SketchfabModelDownload.user.js)**
-3. **[«Install the Script SketchfabTextureDump»](https://github.com/artemka-sh/SketchfabDownloader/raw/refs/heads/main/SketchfabTextureDump.user.js).**
+2. **[«Install the Script SketchfabTextureDump»](https://github.com/artemka-sh/SketchfabDownloader/raw/refs/heads/main/SketchfabTextureDump.user.js).**
