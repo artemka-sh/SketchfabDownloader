@@ -1,7 +1,5 @@
 # SketchfabDownloader
 
-> [!CAUTION]
-> Before creating Issues, we strongly recommend that you read the section [FAQ](https://github.com/ilyhalight/voice-over-translation/wiki/%5BRU%5D-FAQ), as well as with existing ones [Issues](https://github.com/ilyhalight/voice-over-translation/issues)
 
 Download Sketchfab Models and textures
 
